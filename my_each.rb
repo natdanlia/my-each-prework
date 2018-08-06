@@ -6,6 +6,6 @@ def my_each(arr)
   end
 end
 
-my_each(arr) do |i| 
+my_each() do |i| 
   puts i 
 end
